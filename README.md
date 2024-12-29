@@ -70,11 +70,8 @@ RegisterNumber: 24900019
 **RTL LOGIC FOR FLIPFLOPS**
 <img width="1470" alt="Screenshot 2024-12-07 at 2 48 38 PM" src="https://github.com/user-attachments/assets/99ca16aa-9a9f-4315-868c-ad4818d13235">
 
-
 **TIMING DIGRAMS FOR FLIP FLOPS**
-<img width="1470" alt="Screenshot 2024-12-07 at 2 52 29 PM" src="https://github.com/user-attachments/assets/f326a733-bb8f-413d-a0a2-e346bb672d4f">
-
+![Screenshot 2024-12-23 110849](https://github.com/user-attachments/assets/3ca506d8-b02a-49a3-98c7-fc989e076430)
 
 **RESULTS**
-
 sucessfully implemented D flipflop using verilog and validating their functionality using their functional tables
